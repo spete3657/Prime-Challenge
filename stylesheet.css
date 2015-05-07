@@ -1,0 +1,40 @@
+body {
+	background-color: #F0FFFF;
+	margin-left: 150px;
+	margin-right: 150px;
+	padding: 0;
+}
+
+
+.contact {
+	color: black;
+	font-family: Arial, sans-serif;
+	font-weight: bold;
+	font-size: 25px;
+	text-align: center;
+	padding: 4px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.contact p {
+	color: #000000;
+	font-weight: bold;
+}
+
+.container {
+	font-family: Arial, sans-serif;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.container h2 {
+	font-size: 25px;
+	border-bottom: 1px solid #000000;
+}
+
+table {
+	margin-top: -25px;
+	width: 80%;
+	text-indent: 15px;
+}
